@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <footer className="bg-[#F8F8F8]">
+        <footer className="bg-[#F8F8F8] dark:bg-none dark:text-white pt-8">
             <div className="container mx-auto text-center">
                 <img src="/public/logo.png" alt="Mumair Logo" className="h-10 mx-auto mb-4" />
                 

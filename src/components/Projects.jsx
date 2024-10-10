@@ -20,7 +20,7 @@ const Projects = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-5">
                     <div className="">
                         <div className="bg-[#FFEBDB]">
-                            <img src="/public/Web Designs.png" alt="Project 1" className="mb-5 absolute mt-20 md:ml-4 ml-8" />
+                            <img src="/public/Web Designs.png" alt="Project 1" className="mb-5 absolute mt-[78px] md:ml-4 ml-8" />
                             <img src="/public/Web Designs (1).png" alt="Project 1" className="mb-4 md:ml-24 ml-32" />
                         </div>
                         <p className="text-lg text-orange-500">Web Design</p>
@@ -28,7 +28,7 @@ const Projects = () => {
                     </div>
                     <div className="">
                         <div className="bg-[#FFEBDB]">
-                            <img src="/public/Web Designs (2).png" alt="Project 1" className="mb-5 absolute mt-20 md:ml-4 ml-8" />
+                            <img src="/public/Web Designs (2).png" alt="Project 1" className="mb-5 absolute mt-[70px] md:ml-4 ml-8" />
                             <img src="/public/Web Designs (3).png" alt="Project 1" className="mb-4 md:ml-24 ml-32" />
                         </div>
                         <p className="text-lg text-orange-500">Web Design</p>
@@ -36,7 +36,7 @@ const Projects = () => {
                     </div>
                     <div className="">
                         <div className="bg-[#FFEBDB]">
-                            <img src="public/Web Designs (4).png" alt="Project 1" className="mb-5 absolute mt-20 md:ml-4 ml-8" />
+                            <img src="public/Web Designs (4).png" alt="Project 1" className="mb-5 absolute mt-[70px] md:ml-4 ml-8" />
                             <img src="public/Web Designs (5).png" alt="Project 1" className="mb-4 md:ml-24 ml-32" />
                         </div>
                         <p className="text-lg text-orange-500">Web Design</p>

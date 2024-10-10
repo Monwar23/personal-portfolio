@@ -4,7 +4,7 @@ const Hero = () => {
         <section id="home" className="py-20 font-poppins pl-8 pr-14">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between space-y-8 md:space-y-0 md:space-x-12">
           <div className="text-center md:text-left">
-            <p className="text-2xl font-semibold">Hi I am </p>
+            <p className="text-2xl font-semibold dark:text-white">Hi I am </p>
             <h1 className="text-3xl font-semibold text-orange-500">Muhammad Umair</h1>
             <h2 className="text-8xl  mt-4 font-bold">UI & UX</h2>
             <h2 className="text-8xl lg:ml-48 mt-4 font-bold"> Designer</h2>

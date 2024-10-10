@@ -37,7 +37,7 @@ const Header = () => {
         <nav
           className={`${
             isOpen ? "block" : "hidden"
-          } lg:flex lg:space-x-8 items-center absolute lg:static top-16 left-0 w-full lg:w-auto bg-white lg:bg-transparent px-6 lg:px-0 py-4 lg:py-0 space-y-1 lg:space-y-0 transition-all duration-300 ease-in-out font-normal `}
+          } lg:flex lg:space-x-8 items-center  absolute lg:static top-16 left-0 w-full lg:w-auto bg-white lg:bg-transparent px-6 lg:px-0 py-4 lg:py-0 space-y-1 lg:space-y-0 transition-all duration-300 ease-in-out font-normal `}
         >
           <a href="#home" className="block lg:inline hover:text-orange-500 text-xl">
             Home
