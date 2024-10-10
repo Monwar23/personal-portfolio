@@ -8,8 +8,8 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-white shadow-md">
-      <div className="container mx-auto flex justify-between items-center py-4 px-6">
+    <header className="">
+      <div className="container mx-auto flex justify-between items-center py-4 px-6 font-poppins">
         <img src="/public/logo.png" alt="Mumair Logo" className="h-10" />
         
         <div className="lg:hidden">
@@ -37,33 +37,33 @@ const Header = () => {
         <nav
           className={`${
             isOpen ? "block" : "hidden"
-          } lg:flex lg:space-x-8 items-center absolute lg:static top-16 left-0 w-full lg:w-auto bg-white lg:bg-transparent px-6 lg:px-0 py-4 lg:py-0 space-y-1 lg:space-y-0 transition-all duration-300 ease-in-out`}
+          } lg:flex lg:space-x-8 items-center absolute lg:static top-16 left-0 w-full lg:w-auto bg-white lg:bg-transparent px-6 lg:px-0 py-4 lg:py-0 space-y-1 lg:space-y-0 transition-all duration-300 ease-in-out font-normal `}
         >
-          <a href="#home" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#home" className="block lg:inline hover:text-orange-500 text-xl">
             Home
           </a>
-          <a href="#about" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#about" className="block lg:inline hover:text-orange-500 text-xl">
             About Me
           </a>
-          <a href="#services" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#services" className="block lg:inline hover:text-orange-500 text-xl">
             Services
           </a>
-          <a href="#projects" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#projects" className="block lg:inline hover:text-orange-500 text-xl">
             Projects
           </a>
-          <a href="#testimonials" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#testimonials" className="block lg:inline hover:text-orange-500 text-xl">
             Testimonials
           </a>
-          <a href="#contact" className="block lg:inline hover:text-orange-500 text-lg">
+          <a href="#contact" className="block lg:inline hover:text-orange-500 text-xl">
             Contact
           </a>
 
-          <button className="block lg:hidden bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600">
+          <button className="block lg:hidden bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600 text-xl">
             Download CV
           </button>
         </nav>
 
-        <button className="hidden lg:inline bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600">
+        <button className="hidden text-xl lg:inline bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600">
           Download CV
         </button>
       </div>
