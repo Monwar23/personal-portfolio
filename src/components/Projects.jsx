@@ -3,14 +3,14 @@ const Projects = () => {
     return (
         <section id="projects" className="py-16 font-poppins">
         <div className="container mx-auto">
-        <h2 className="text-6xl font-semibold mb-6 text-center">Services</h2>
+        <h2 className="text-6xl font-semibold mb-6 text-center">My Projects</h2>
         <p className="text-xl text-center mb-10">Lorem ipsum dolor sit amet consectetur. Mollis erat duis aliquam mauris est risus <br /> lectus. Phasellus consequat urna tellus</p> 
           <div className="flex justify-center mb-8 space-x-4">
-            <button className=" border px-4 py-2 rounded text-xl hover:bg-gray-200">All</button>
-            <button className="border px-4 py-2 rounded hover:bg-gray-200 text-xl">UI/UX</button>
-            <button className="border px-4 py-2 rounded bg-orange-500 hover:bg-orange-600 text-xl text-white">Web Design</button>
-            <button className="border px-4 py-2 rounded hover:bg-gray-200 text-xl">App Design</button>
-            <button className="border px-4 py-2 rounded hover:bg-gray-200 text-xl">Graphic Design</button>
+            <button className=" border px-4 py-2 rounded-xl bg-gray-100 text-xl hover:bg-gray-200">All</button>
+            <button className="border px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-xl">UI/UX</button>
+            <button className="border px-4 py-2 rounded-xl bg-orange-500 hover:bg-orange-600 text-xl text-white">Web Design</button>
+            <button className="border px-4 py-2  rounded-xl bg-gray-100 hover:bg-gray-200 text-xl">App Design</button>
+            <button className="border px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-xl">Graphic Design</button>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-5">
             <div className="">
