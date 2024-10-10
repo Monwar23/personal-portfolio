@@ -16,17 +16,17 @@ const Hero = () => {
           <div>
             <div className="">
             <img
-              src="/public/hero.png"
+              src="/hero.png"
               alt="Profile"
               className="w-80 h-96 mt-10 rounded-full  "
             />
             <div className="relative -mt-[335px] ml-12 w-52 h-12 bg-[#FD6F0099]"></div>
             </div>
             <div className="flex justify-center mt-[300px] space-x-4">
-          <a href="#"><img src="/public/faceook.png" alt="Facebook" className="h-6" /></a>
-          <a href="#"><img src="/public/Twitter - Negative.png" alt="Twitter" className="h-6" /></a>
-          <a href="#"><img src="/public/Instagram - Negative.png" alt="Instagram" className="h-6" /></a>
-          <a href="#"><img src="/public/LinkedIn - Negative.png" alt="LinkedIn" className="h-6" /></a>
+          <a href="#"><img src="/faceook.png" alt="Facebook" className="h-6" /></a>
+          <a href="#"><img src="/Twitter - Negative.png" alt="Twitter" className="h-6" /></a>
+          <a href="#"><img src="/Instagram - Negative.png" alt="Instagram" className="h-6" /></a>
+          <a href="#"><img src="/LinkedIn - Negative.png" alt="LinkedIn" className="h-6" /></a>
         </div>
           </div>
         </div>

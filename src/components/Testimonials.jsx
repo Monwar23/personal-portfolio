@@ -11,7 +11,7 @@ const Testimonials = () => {
             <div className="flex-shrink-0 min-w-[250px] md:min-w-[300px] lg:min-w-[400px] transform scale-90 md:scale-90 opacity-50 transition duration-500 ease-in-out">
               <div className="max-w-[760px] bg-gray-100 p-5 rounded-lg">
                 <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                  <img src="/public/hero.png" alt="Client 1" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
+                  <img src="/hero.png" alt="Client 1" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
                   <div>
                     <blockquote className="text-lg md:text-xl">
                       <span className="text-orange-500">"</span>Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices.<span className="text-orange-500">"</span>
@@ -26,7 +26,7 @@ const Testimonials = () => {
             <div className="flex-shrink-0 min-w-[250px] md:min-w-[300px] lg:min-w-[400px] transform scale-100 transition duration-500 ease-in-out">
               <div className="max-w-[760px] bg-gray-100 p-5 rounded-lg">
                 <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                  <img src="/public/Ellipse 10.png" alt="Client 2" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
+                  <img src="/Ellipse 10.png" alt="Client 2" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
                   <div>
                     <blockquote className="text-lg md:text-xl">
                       <span className="text-orange-500">"</span>Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices.<span className="text-orange-500">"</span>
@@ -41,7 +41,7 @@ const Testimonials = () => {
             <div className="flex-shrink-0 min-w-[250px] md:min-w-[300px] lg:min-w-[400px] transform scale-90 md:scale-90 opacity-50 transition duration-500 ease-in-out">
               <div className="max-w-[760px] bg-gray-100 p-5 rounded-lg">
                 <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                  <img src="/public/Ellipse 11.png" alt="Client 3" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
+                  <img src="/Ellipse 11.png" alt="Client 3" className="w-24 h-24 md:w-32 md:h-32 rounded-full" />
                   <div>
                     <blockquote className="text-lg md:text-xl">
                       <span className="text-orange-500">"</span>Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices.<span className="text-orange-500">"</span>

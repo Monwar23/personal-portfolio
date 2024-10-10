@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <header className="">
       <div className="container mx-auto flex justify-between items-center py-4 px-6 font-poppins">
-        <img src="/public/logo.png" alt="Mumair Logo" className="h-10" />
+        <img src="/logo.png" alt="Mumair Logo" className="h-10" />
         
         <div className="lg:hidden">
           <button

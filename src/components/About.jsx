@@ -5,7 +5,7 @@ const About = () => {
           <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-12">
             <div className="relative">
               <img
-                src="/public/about.png"
+                src="/about.png"
                 alt="About Profile"
                 className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 rounded-full -mt-16 md:mt-5 mx-auto"
               />
