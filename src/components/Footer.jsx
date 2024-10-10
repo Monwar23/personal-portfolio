@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <footer className="bg-[#F8F8F8] border-b-[40px] border-[#545454] py-6">
+        <footer className="bg-[#F8F8F8]">
             <div className="container mx-auto text-center">
                 <img src="/public/logo.png" alt="Mumair Logo" className="h-10 mx-auto mb-4" />
                 
@@ -18,6 +18,9 @@ const Footer = () => {
                     <a href="#"><img src="/public/Twitter - Negative.png" alt="Twitter" className="h-6 mb-2 md:mb-0" /></a>
                     <a href="#"><img src="/public/Instagram - Negative.png" alt="Instagram" className="h-6 mb-2 md:mb-0" /></a>
                     <a href="#"><img src="/public/LinkedIn - Negative.png" alt="LinkedIn" className="h-6 mb-2 md:mb-0" /></a>
+                </div>
+                <div className="bg-[#545454]">
+                    <p className="text-xl text-white p-4 text-center">© 2024 All <span className="text-orange-500">Mumair</span> Rights Reserved , Inc</p>
                 </div>
             </div>
         </footer>
