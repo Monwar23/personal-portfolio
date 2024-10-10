@@ -11,7 +11,7 @@ const Contact = () => {
                     <input
                         type="email"
                         placeholder="Enter Your Email"
-                        className="border border-gray-300 p-4 rounded-xl flex-grow"
+                        className="border border-gray-300 bg-[#F8F8F8] p-4 rounded-xl flex-grow"
                         aria-label="Email address"
                         required
                     />
